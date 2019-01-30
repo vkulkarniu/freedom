@@ -13,9 +13,11 @@ He then moved on to explain how big corporates operate in a manner which not onl
 Now the question that pops up is "*what can we do as citizens or netizens or whatever to be free of this?*" 
 There are various solutions :
 
- - Get involved in free software activities by joining [fsf](https://www.fsf.org) or [fsmk](https://fsmk.org/)  which looks after the Free Software activities in Karnataka or [fsmi](https://fsmi.in)
+ - Get involved in free software activities by joining [fsf](https://www.fsf.org) or [fsmk](https://fsmk.org/) or [fsmi](https://fsmi.in) or [fsf india](http://fsf.org.in/)
  - Contribute to Free Software ( look up for any free software of your choice and start contributing to it.)
  - If you are a student then you can work on Free Software as a part of your academic projects and start a GNU/Linux Users Group in college (GLUG)
- - If you are not able in get involved into any of the technical activities then the best part is to talk about it , spread awareness.
+ - If you are not able in get involved into any of the technical activities then the best part is to talk about it , spread awareness. Read [this page](https://abhas.io/after-rms-talk/) for more info
 
-You can always contact [me](mailto:vijay@vijaykulkarni.me) or [Abhas](http://abhas.io) for more information.
+
+Some more ideas on how to get involved with free software contact [me](mailto:vijay@vijaykulkarni.me) or [Abhas](http://abhas.io) and visit [this page](https://abhas.io/free-software-involvement/)
+
