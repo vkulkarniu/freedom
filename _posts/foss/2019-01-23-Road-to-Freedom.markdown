@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Road to Freedom"
+date:   2019-01-23 01:18:41 +0530
+categories: FOSS
+permalink : "/road-to-freedom/"
+---
 ## Road to Freedom !
 It is not very often that you get to attend a talk by [RMS](https://stallman.org/). One must say he has a persona that can anchor the thoughts of freedom deep in our minds. I have previously mentioned that one is the main reasons for Free Software activity losing its fizz is the fact that most of the people are not able to connect to the freedom aspect of software and how subtly it is connected with the idea of freedom on a philosophical level. 
 I happened to attend his talks at [RVCE](https://www.rvce.edu.in) Bangalore and IISc Bangalore on 18th and 19th Jan 2019. I was amazed with the way he takes us from the concept of software to idea of freedom in a manner which is so  seamless.
