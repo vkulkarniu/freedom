@@ -6,7 +6,7 @@ categories: Machine Learning
 permalink : "/what-is-the-way-to-ml-town/"
 ---
 
-##What is the way to ML town?
+## What is the way to ML town?
 
 Every couple of years a particular technology becomes the most sought after. And it comes with its own ecosystem with all mooc, and ever mushrooming training institutes,online courses being components of ecosystem. But with ML and AI coming into the landscape packaged as Data Science, umpteen number of regular academic institutions are offering number of courses  apart from mooc and training institutes. So why is it different this time around or rather what is different this time?
 
