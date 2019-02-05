@@ -1,4 +1,86 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-30T12:09:25+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">The greatest addiction is the addiction of Freedom !</title><subtitle></subtitle><entry><title type="html">Road to Freedom</title><link href="http://localhost:4000/road-to-freedom/" rel="alternate" type="text/html" title="Road to Freedom" /><published>2019-01-23T01:18:41+05:30</published><updated>2019-01-23T01:18:41+05:30</updated><id>http://localhost:4000/Road-to-Freedom</id><content type="html" xml:base="http://localhost:4000/road-to-freedom/">&lt;h2 id=&quot;road-to-freedom-&quot;&gt;Road to Freedom !&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-05T17:11:34+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">The greatest addiction is the addiction of Freedom !</title><subtitle></subtitle><entry><title type="html">What is the way to ML Town?</title><link href="http://localhost:4000/what-is-the-way-to-ml-town/" rel="alternate" type="text/html" title="What is the  way to ML Town?" /><published>2019-02-05T15:00:41+05:30</published><updated>2019-02-05T15:00:41+05:30</updated><id>http://localhost:4000/what-is-the-way-to-ml-town</id><content type="html" xml:base="http://localhost:4000/what-is-the-way-to-ml-town/">&lt;p&gt;##What is the way to ML town?&lt;/p&gt;
+
+&lt;p&gt;Every couple of years a particular technology becomes the most sought after. And it comes with its own ecosystem with all mooc, and ever mushrooming training institutes,online courses being components of ecosystem. But with ML and AI coming into the landscape packaged as Data Science, umpteen number of regular academic institutions are offering number of courses  apart from mooc and training institutes. So why is it different this time around or rather what is different this time?&lt;/p&gt;
+
+&lt;p&gt;Most of the people whom I have come across , invariably ask me one question “Vijay, I see ML and Data Science in general is getting a lot of traction and hundreds of people including students, professionals want to learn it and are enrolling themselves to lot of courses. Tell me what is a good way to learn ML or where do I start from?”. In my opinion, this question however naive might sound highlights the degree of obfuscation that exists.&lt;/p&gt;
+
+&lt;p&gt;Let me not get into the eternal debate of what is the right way to learn ML or Data Science as such in general because fundamentally I believe &lt;em&gt;unlearning is the first step towards learning&lt;/em&gt; and hence it does not make any sense to debate on that. However, what can be discussed is our experiences with the technology and how each one’s experience has been while learning.&lt;/p&gt;
+
+&lt;p&gt;I however think it is very imperative to learn the fundamental concepts of Mathematics like Linear Algebra, Probablity, Statistics etc. Here’s what I followed ( in the order ):&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Linear Algebra&lt;/li&gt;
+  &lt;li&gt;Probablility&lt;/li&gt;
+  &lt;li&gt;Statistics&lt;/li&gt;
+  &lt;li&gt;Basics of Calculus ( Univariate Calculus)&lt;/li&gt;
+  &lt;li&gt;Python / R&lt;/li&gt;
+  &lt;li&gt;Machine Learning Algorithms&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Having said that the next logical question would be the resources. What to read what not to read. Again there can be a number of answers based on the interest of the reader / learner, the level of exposure to the subject one has etc. However here are some of the books / resources that I have referred to :&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Subject&lt;/th&gt;
+      &lt;th&gt;Book&lt;/th&gt;
+      &lt;th&gt;Author(s)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Linear Algebra&lt;/td&gt;
+      &lt;td&gt;Introduction to Linear Algebra&lt;/td&gt;
+      &lt;td&gt;Gilbert Strang&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Linear Algebra&lt;/td&gt;
+      &lt;td&gt;Linear Algebra Done Right&lt;/td&gt;
+      &lt;td&gt;Sheldon Axler&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Probability&lt;/td&gt;
+      &lt;td&gt;A First Course in Probability&lt;/td&gt;
+      &lt;td&gt;Sheldon Ross&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Statistics&lt;/td&gt;
+      &lt;td&gt;Think Stats, Exploratory Data Analysis in Python&lt;/td&gt;
+      &lt;td&gt;Allen B. Downey&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Python&lt;/td&gt;
+      &lt;td&gt;Beginning Python&lt;/td&gt;
+      &lt;td&gt;Magnus Lie Hetland&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Machine Learning&lt;/td&gt;
+      &lt;td&gt;Bayesian Reasoning and Machine Learning&lt;/td&gt;
+      &lt;td&gt;David Barber&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Machine Learning&lt;/td&gt;
+      &lt;td&gt;Pattern Recognition and Machine Learning&lt;/td&gt;
+      &lt;td&gt;Christopher M. Bishop&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Machine Learning&lt;/td&gt;
+      &lt;td&gt;Machine Learning&lt;/td&gt;
+      &lt;td&gt;Tom M. Mitchell&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Machine Learning&lt;/td&gt;
+      &lt;td&gt;Python Machine Learning&lt;/td&gt;
+      &lt;td&gt;Sebastian Raschka, Vahid Mirjalili&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt; ML Books by David Barber, Bishop and Tom Mitchell assume the reader to have undergraduate level of exposure to Mathematics.&lt;/p&gt;
+
+&lt;p&gt;However, there might be and are many other books which might best suit to different kind of audience. In the event of you finding a book which might cater to a larger audience please do inform me by e-mail.&lt;/p&gt;
+
+&lt;p&gt;Please feel free to revert to me incase you need more information.&lt;/p&gt;</content><author><name></name></author><summary type="html">##What is the way to ML town?</summary></entry><entry><title type="html">Road to Freedom</title><link href="http://localhost:4000/road-to-freedom/" rel="alternate" type="text/html" title="Road to Freedom" /><published>2019-01-23T01:18:41+05:30</published><updated>2019-01-23T01:18:41+05:30</updated><id>http://localhost:4000/Road-to-Freedom</id><content type="html" xml:base="http://localhost:4000/road-to-freedom/">&lt;h2 id=&quot;road-to-freedom-&quot;&gt;Road to Freedom !&lt;/h2&gt;
 &lt;p&gt;It is not very often that you get to attend a talk by &lt;a href=&quot;https://stallman.org/&quot;&gt;RMS&lt;/a&gt;. One must say he has a persona that can anchor the thoughts of freedom deep in our minds. I have previously mentioned that one is the main reasons for Free Software activity losing its fizz is the fact that most of the people are not able to connect to the freedom aspect of software and how subtly it is connected with the idea of freedom on a philosophical level. 
 I happened to attend his talks at &lt;a href=&quot;https://www.rvce.edu.in&quot;&gt;RVCE&lt;/a&gt; Bangalore and IISc Bangalore on 18th and 19th Jan 2019. I was amazed with the way he takes us from the concept of software to idea of freedom in a manner which is so  seamless.
 He started his talk with the idea of what software is and what does the word ‘&lt;em&gt;free&lt;/em&gt;’ stands for in the context of free software. 
@@ -22,7 +104,7 @@ There are various solutions :&lt;/p&gt;
   &lt;li&gt;If you are not able in get involved into any of the technical activities then the best part is to talk about it , spread awareness. Read &lt;a href=&quot;https://abhas.io/after-rms-talk/&quot;&gt;this page&lt;/a&gt; for more info&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Some more ideas on how to get involved with free software contact &lt;a href=&quot;mailto:vijay@vijaykulkarni.me&quot;&gt;me&lt;/a&gt; or &lt;a href=&quot;http://abhas.io&quot;&gt;Abhas&lt;/a&gt; and visit &lt;a href=&quot;https://abhas.io/free-software-involvement/&quot;&gt;this page&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Road to Freedom ! It is not very often that you get to attend a talk by RMS. One must say he has a persona that can anchor the thoughts of freedom deep in our minds. I have previously mentioned that one is the main reasons for Free Software activity losing its fizz is the fact that most of the people are not able to connect to the freedom aspect of software and how subtly it is connected with the idea of freedom on a philosophical level. I happened to attend his talks at RVCE Bangalore and IISc Bangalore on 18th and 19th Jan 2019. I was amazed with the way he takes us from the concept of software to idea of freedom in a manner which is so seamless. He started his talk with the idea of what software is and what does the word ‘free’ stands for in the context of free software. He explained about the four freedoms i.e.</summary></entry><entry><title type="html">Why FOSS is not able to hold the fizz</title><link href="http://localhost:4000/towards-libre-freedom/" rel="alternate" type="text/html" title="Why FOSS is not able to hold the fizz" /><published>2019-01-09T01:18:41+05:30</published><updated>2019-01-09T01:18:41+05:30</updated><id>http://localhost:4000/why-foss-is-losing-fizz</id><content type="html" xml:base="http://localhost:4000/towards-libre-freedom/">&lt;h2 id=&quot;why-foss-is-not-able-to-hold-the-fizz&quot;&gt;Why FOSS is not able to hold the fizz?&lt;/h2&gt;
+&lt;p&gt;Some more ideas on how to get involved with free software contact &lt;a href=&quot;mailto:vijay@vijaykulkarni.me&quot;&gt;me&lt;/a&gt; or &lt;a href=&quot;http://abhas.io&quot;&gt;Abhas&lt;/a&gt; and visit &lt;a href=&quot;https://abhas.io/free-software-involvement/&quot;&gt;this page&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Road to Freedom ! It is not very often that you get to attend a talk by RMS. One must say he has a persona that can anchor the thoughts of freedom deep in our minds. I have previously mentioned that one is the main reasons for Free Software activity losing its fizz is the fact that most of the people are not able to connect to the freedom aspect of software and how subtly it is connected with the idea of freedom on a philosophical level. I happened to attend his talks at RVCE Bangalore and IISc Bangalore on 18th and 19th Jan 2019. I was amazed with the way he takes us from the concept of software to idea of freedom in a manner which is so seamless. He started his talk with the idea of what software is and what does the word ‘free’ stands for in the context of free software. He explained about the four freedoms i.e.</summary></entry><entry><title type="html">Why FOSS is not able to hold the fizz</title><link href="http://localhost:4000/why-foss-losing-fizz/" rel="alternate" type="text/html" title="Why FOSS is not able to hold the fizz" /><published>2019-01-09T01:18:41+05:30</published><updated>2019-01-09T01:18:41+05:30</updated><id>http://localhost:4000/why-foss-is-losing-fizz</id><content type="html" xml:base="http://localhost:4000/why-foss-losing-fizz/">&lt;h2 id=&quot;why-foss-is-not-able-to-hold-the-fizz&quot;&gt;Why FOSS is not able to hold the fizz?&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;There is no greater addiction than that of the freedom.&lt;/p&gt;

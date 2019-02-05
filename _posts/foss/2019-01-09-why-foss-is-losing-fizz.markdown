@@ -3,7 +3,7 @@ layout: post
 title:  "Why FOSS is not able to hold the fizz"
 date:   2019-01-09 01:18:41 +0530
 categories: FOSS
-permalink : "/towards-libre-freedom/"
+permalink : "/why-foss-losing-fizz/"
 ---
 
 ## Why FOSS is not able to hold the fizz?
