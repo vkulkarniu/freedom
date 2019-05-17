@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Out of Comfort Zone"
+date:   2019-05-10 11:20:41 +0530
+categories: FOSS
+permalink : "/out-of-comfort-zone/"
+---
 ## Out of comfort zone !
 
 I had been a little out of touch with the local FOSS community for a while because it was getting difficult to manage my offical travels and the FOSS related activity in Bangalore. Somehow, convenience had grappled me while I was toiling to build a career path for me and I realized that when Abhas told me "Vijay, why don't you move out of your comfort zone? what stops you?". Not only he did stop at that but also he motivated me to take my first step out of my comfort zone. I had been using a non-free ecosystem for a brief time and I was badly looking a way out. This means I need to buy a system and then ensure eveything on that is almost free with expceptions to hardware ofcourse and this trivialy meant a substantial investment. Thanks to Abhas that he showed me a wonderful way out. His suggestion was to buy a pre-owned laptop and a fraction of the price of the brand new. This made me very curious and then I dared to take the first step.
